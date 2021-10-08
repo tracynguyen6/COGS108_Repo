@@ -1,2 +1,2 @@
 # COGS108_Repo
-A1
+Week 2 - Assignment 1 
